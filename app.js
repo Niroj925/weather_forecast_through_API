@@ -48,5 +48,5 @@ app.post("/",function(req,res){
 });
 const port=process.env.PORT||2000;
 app.listen(port,function(){
-    console.log('server port 2000 is runnning ');
+    console.log('your server is running on port 2000');
 })
