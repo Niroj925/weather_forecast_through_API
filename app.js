@@ -46,6 +46,7 @@ app.post("/",function(req,res){
     });
   });
 });
-app.listen(process.env.PORT||2000,function(){
+const port=process.env.PORT||2000;
+app.listen(port,function(){
     console.log('server port 2000 is runnning ');
 })
