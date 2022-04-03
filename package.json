@@ -4,7 +4,7 @@
   "description": "here you can get the weather information using node with express",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
