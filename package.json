@@ -1,7 +1,7 @@
 {
   "name": "weather_api",
   "version": "1.0.0",
-  "description": "",
+  "description": "here you can get the weather information using node with express",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,14 @@
   "dependencies": {
     "body-parser": "^1.19.2",
     "express": "^4.17.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niroj925/weather_forecast_through_API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Niroj925/weather_forecast_through_API/issues"
+  },
+  "homepage": "https://github.com/Niroj925/weather_forecast_through_API#readme"
 }
