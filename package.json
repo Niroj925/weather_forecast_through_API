@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "here you can get the weather information using node with express",
   "main": "app.js",
+  "master": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "test":"echo\"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
